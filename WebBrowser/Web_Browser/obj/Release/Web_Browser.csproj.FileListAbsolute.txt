@@ -1,0 +1,13 @@
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\bin\Release\Web_Browser.exe.config
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\bin\Release\Web_Browser.exe.manifest
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\bin\Release\Web_Browser.application
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\bin\Release\Web_Browser.exe
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\bin\Release\Web_Browser.pdb
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\obj\Release\Web_Browser.IntelligenceDashboardLicensing.resources
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\obj\Release\Web_Browser.Properties.Resources.resources
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\obj\Release\Web_Browser.csproj.GenerateResource.cache
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\obj\Release\Web_Browser.csproj.CoreCompileInputs.cache
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\obj\Release\Web_Browser.exe.manifest
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\obj\Release\Web_Browser.application
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\obj\Release\Web_Browser.exe
+D:\experiments\loadwebpag\WebBrowser\Web_Browser\obj\Release\Web_Browser.pdb
